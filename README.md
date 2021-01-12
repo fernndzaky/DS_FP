@@ -4,7 +4,7 @@ Data Science Final Project
 
 
 <p align="center">
-Semester 5 Final Project Data Science
+Predicting Used Car Price
 </p>
 
 The idea comes from a friend who is a Car Salesman. We want to provide him to find the best price for cars so he can sell the car with more profit using data science. Our hypothesis is that the car price can be affected by how much the car is consuming the fuel, the higher it consumes, the higher the price and the lower it consumes, the cheaper the price. It can affect the sale price for the salesman.
